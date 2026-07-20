@@ -1,6 +1,6 @@
 # Hi, I'm Mehul 👋
 
-Final-year Integrated M.Sc. (Mathematics & Computing) student at BIT Mesra. I build projects end-to-end — backend, frontend, tests, and CI — and spend the rest of my time on competitive programming in C++.
+Final-year Integrated M.Sc. (Mathematics & Computing) student at BIT Mesra, currently prepping for SDE placements. I build projects end-to-end — backend, frontend, tests, and CI — and spend the rest of my time on competitive programming in C++ and Python.
 
 ## Projects
 
@@ -27,4 +27,5 @@ AI-powered financial health forecasting for retail banking segments — Flask, s
 ![CI](https://github.com/M3hul-raj/FinPulse-NatWest/actions/workflows/tests.yml/badge.svg)
 
 ## Currently
-Deepening my algorithms and data structures foundations through competitive programming.
+
+Focused on core CS fundamentals — DSA and algorithms — for the upcoming placement season.
