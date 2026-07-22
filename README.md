@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/0c8b5d51-f711-47c3-9933-9878693594bb
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=180&section=header)
-
 <div align="center">
 
 # Hi, I'm Mehul 👋
@@ -34,6 +28,8 @@ Full-stack dissertation project — computes fractal dimensions of leaves and co
 ![Frontend CI](https://github.com/M3hul-raj/fractalvision-frontend/actions/workflows/ci.yml/badge.svg)
 ![Backend CI](https://github.com/M3hul-raj/fractalvision-backend/actions/workflows/tests.yml/badge.svg)
 
+<img src="https://github.com/user-attachments/assets/11d8f592-8c27-490d-b0db-204b6a27b3c5" width="700" alt="FractalVision Lab demo"/>
+
 ### 💰 ExpenseFlow
 Production-grade personal finance tracker — Flask, SQLAlchemy, PWA support, CSRF protection, rate-limited authentication, and a custom analytics dashboard.
 
@@ -60,5 +56,3 @@ Solving DSA problems on LeetCode and Codeforces to sharpen algorithmic problem-s
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehulraj735@gmail.com)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=120&section=footer)
