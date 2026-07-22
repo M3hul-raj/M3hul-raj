@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=180&section=header)
+
 <div align="center">
 
 # Hi, I'm Mehul 👋
@@ -43,7 +45,7 @@ AI-powered financial health forecasting for retail banking segments — Flask, s
 ![CI](https://github.com/M3hul-raj/FinPulse-NatWest/actions/workflows/tests.yml/badge.svg)
 
 ## Currently
-Sharpening data structures, algorithms, and core CS fundamentals through competitive programming.
+Solving DSA problems on LeetCode and Codeforces to sharpen algorithmic problem-solving.
 
 ---
 
@@ -54,3 +56,5 @@ Sharpening data structures, algorithms, and core CS fundamentals through competi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehulraj735@gmail.com)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=120&section=footer)
