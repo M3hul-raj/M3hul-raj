@@ -78,15 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3hul-raj&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Mehul's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hul-raj&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
----
-
 ### 🚀 Projects
 
 #### 🌀 FractalVision Lab
