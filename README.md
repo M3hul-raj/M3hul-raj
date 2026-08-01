@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" alt="My GitHub stats"/>
+  <img src="./profile/stats.svg" height="165" alt="Mehul raj's GitHub stats"/>
   <img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 </p>
 
