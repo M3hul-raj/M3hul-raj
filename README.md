@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" alt="My GitHub stats"/>
+  <img src="./profile/stats.svg" height="165" alt="Mehul's GitHub stats"/>
   <img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 </p>
 
@@ -92,21 +92,28 @@
 #### 🌀 FractalVision Lab
 Full-stack dissertation project that computes fractal dimensions of natural patterns (leaves, coastlines) via the box-counting method — grew out of the dissertation *"Fractal Dimensions of Natural Patterns: A Case Study on Leaves and Coastlines."* FastAPI + OpenCV + SciPy backend, Next.js + D3 frontend, with a WASM-accelerated client-side fallback benchmarked against 5 known mathematical fractals. Ships Compare Mode, a Fractal Explorer, report export, and an interactive Coastline Paradox demo.
 
-🔗 [Live demo](https://fractalvision-frontend.vercel.app) &nbsp;·&nbsp; [Frontend repo](https://github.com/M3hul-raj/fractalvision-frontend) &nbsp;·&nbsp; [Backend repo](https://github.com/M3hul-raj/fractalvision-backend)
-![Frontend CI](https://github.com/M3hul-raj/fractalvision-frontend/actions/workflows/ci.yml/badge.svg)
-![Backend CI](https://github.com/M3hul-raj/fractalvision-backend/actions/workflows/tests.yml/badge.svg)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge)](https://fractalvision-frontend.vercel.app)
+[![Frontend Repo](https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M3hul-raj/fractalvision-frontend)
+[![Backend Repo](https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M3hul-raj/fractalvision-backend)
+
+![Frontend CI](https://img.shields.io/github/actions/workflow/status/M3hul-raj/fractalvision-frontend/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=Frontend%20CI)
+![Backend CI](https://img.shields.io/github/actions/workflow/status/M3hul-raj/fractalvision-backend/tests.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=Backend%20CI)
 
 #### 💰 ExpenseFlow
 Production-grade personal finance tracker — Flask + SQLAlchemy, PWA support, CSRF protection, rate-limited authentication, and a custom analytics dashboard.
 
-🔗 [Live demo](https://m3hulraj.pythonanywhere.com) &nbsp;·&nbsp; [Repo](https://github.com/M3hul-raj/ExpenseFlow)
-![CI](https://github.com/M3hul-raj/ExpenseFlow/actions/workflows/ci.yml/badge.svg)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge)](https://m3hulraj.pythonanywhere.com)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M3hul-raj/ExpenseFlow)
+
+![CI](https://img.shields.io/github/actions/workflow/status/M3hul-raj/ExpenseFlow/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=CI)
 
 #### 🏦 FinPulse
 AI-powered financial health forecasting for retail banking segments, built for the NatWest Code for Purpose Hackathon 2026 — Holt-Winters smoothing + Gemini API driving population-level Financial Health Score forecasts, shipped as a Streamlit app.
 
-🔗 [Live demo](https://finpulse-natwest.onrender.com) &nbsp;·&nbsp; [Repo](https://github.com/M3hul-raj/FinPulse-NatWest)
-![CI](https://github.com/M3hul-raj/FinPulse-NatWest/actions/workflows/tests.yml/badge.svg)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge)](https://finpulse-natwest.onrender.com)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M3hul-raj/FinPulse-NatWest)
+
+![Tests](https://img.shields.io/github/actions/workflow/status/M3hul-raj/FinPulse-NatWest/tests.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=Tests)
 
 ---
 
