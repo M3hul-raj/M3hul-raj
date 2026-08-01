@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=M3hul-raj&layout=compact&theme=tokyonight
+          options: username=M3hul-raj&layout=compact&theme=tokyonight&exclude_repo=AQI_ML,DAA_Lab_IMH-10030-22,Probability-and-Statistics-Lab,OPDP_Lab_IMH-10030-22
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_1 }}
 
